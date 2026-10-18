@@ -41,4 +41,4 @@ Want to help or test? Open an issue.
 
 ## License
 
-[MIT](LICENSE) · Not affiliated with Allen & Heath or Bitfocus · A project by **[FLOTECH](https://flotech.dev)**
+[MIT](LICENSE), because Bitfocus requires MIT for modules in Companion. The talkback tool and the drivers behind it are AGPL-3.0 · Not affiliated with Allen & Heath or Bitfocus · A project by **[FLOTECH](https://flotech.dev)**
