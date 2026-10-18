@@ -5,7 +5,7 @@
 A [Bitfocus Companion](https://bitfocus.io/companion) module that does what the official Avantis module can't: **switch the assign of an input to aux mixes**, with live feedback from the desk. Perfect for talkback on a Stream Deck.
 
 > [!NOTE]
-> **In development.** Nothing to install yet. Watch or star the repo to get notified. Built on the protocol work from **[avantis-talkback](https://github.com/Floslis/avantis-talkback)**, documented in **[avantis-protocol](https://github.com/Floslis/avantis-protocol)**.
+> **In development.** Nothing to install yet. Watch or star the repo to get notified. Built on the protocol work from **[allenheath-talkback](https://github.com/Floslis/allenheath-talkback)**, documented in **[avantis-protocol](https://github.com/Floslis/avantis-protocol)**.
 
 [![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/floslist)
 
@@ -17,7 +17,7 @@ The official [Avantis module](https://github.com/bitfocus/companion-module-allen
 
 **Actions**
 - [ ] Assign input → aux / stereo aux: on, off, toggle
-- [ ] Groups of mixes in one press (e.g. "Band", "MD"), like in avantis-talkback
+- [ ] Groups of mixes in one press (e.g. "Band", "MD"), like in allenheath-talkback
 - [ ] Send level input → aux
 
 **Feedbacks**
@@ -33,7 +33,7 @@ The official [Avantis module](https://github.com/bitfocus/companion-module-allen
 
 | | |
 |---|---|
-| Protocol (connect, heartbeat, assign, live state) | ✅ working in [avantis-talkback](https://github.com/Floslis/avantis-talkback) |
+| Protocol (connect, heartbeat, assign, live state) | ✅ working in [allenheath-talkback](https://github.com/Floslis/allenheath-talkback) |
 | Companion module | 🚧 not started yet |
 | Tested | Avantis firmware V2.01 Rev. 97241 |
 
